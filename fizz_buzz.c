@@ -1,3 +1,5 @@
+// gcc -o fizz_buzz fizz_buzz.c
+// ./fizz_buzz
 #include <stdio.h>
 
 int main(int argc, char *args[]) {
