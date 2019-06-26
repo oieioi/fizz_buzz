@@ -1,3 +1,4 @@
+# coffee fizz_buzz.coffee
 fizzBuzz = (n) ->
   if n % 15 is 0 then return "FizzBuzz"
   if n % 3  is 0 then return "Fizz"
